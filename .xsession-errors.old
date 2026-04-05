@@ -1,0 +1,169 @@
+Xsession: X session started for etu at dim. 05 avril 2026 02:57:03 CEST
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/etu/.Xauthority
+localuser:etu being added to access control list
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+00:57:03.548348 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+00:57:03.548350 main     Log opened 2026-04-05T00:57:03.548037000Z
+00:57:03.548371 main     OS Product: Linux
+00:57:03.548374 main     OS Release: 6.12.41+deb13-amd64
+00:57:03.548377 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.12.41-1 (2025-08-12)
+00:57:03.548379 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+00:57:03.548379 main     Process ID: 1303
+00:57:03.548380 main     Package type: LINUX_64BITS_GENERIC
+00:57:03.548383 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+00:57:03.548449 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+00:57:03.548640 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+00:57:03.549801 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+00:57:03.549810 main      Service: Shared Clipboard
+00:57:03.549860 main      Daemonizing service ...
+00:57:03.551029 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+00:57:03.551030 main     Log opened 2026-04-05T00:57:03.551026000Z
+00:57:03.551041 main     OS Product: Linux
+00:57:03.551044 main     OS Release: 6.12.41+deb13-amd64
+00:57:03.551047 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.12.41-1 (2025-08-12)
+00:57:03.551050 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+00:57:03.551050 main     Process ID: 1307
+00:57:03.551050 main     Package type: LINUX_64BITS_GENERIC
+00:57:03.551054 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+00:57:03.551115 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+00:57:03.551299 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+00:57:03.552123 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+00:57:03.552130 main      Service: Seamless Mode Support
+00:57:03.552170 main      Daemonizing service ...
+00:57:03.553367 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+00:57:03.553368 main     Log opened 2026-04-05T00:57:03.553362000Z
+00:57:03.553383 main     OS Product: Linux
+00:57:03.553389 main     OS Release: 6.12.41+deb13-amd64
+00:57:03.553394 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.12.41-1 (2025-08-12)
+00:57:03.553397 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+00:57:03.553398 main     Process ID: 1315
+00:57:03.553398 main     Package type: LINUX_64BITS_GENERIC
+00:57:03.553403 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+00:57:03.553470 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+00:57:03.553654 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+00:57:03.554666 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+00:57:03.554674 main      Service: Drag'n'Drop
+00:57:03.554719 main      Daemonizing service ...
+00:57:03.555953 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+00:57:03.555955 main     Log opened 2026-04-05T00:57:03.555951000Z
+00:57:03.555969 main     OS Product: Linux
+00:57:03.555973 main     OS Release: 6.12.41+deb13-amd64
+00:57:03.555977 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.12.41-1 (2025-08-12)
+00:57:03.555980 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+00:57:03.555981 main     Process ID: 1323
+00:57:03.555981 main     Package type: LINUX_64BITS_GENERIC
+00:57:03.555986 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+00:57:03.556070 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+00:57:03.556280 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+00:57:03.557147 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+00:57:03.557157 main      Service: VirtualBox host version check
+00:57:03.557198 main      Daemonizing service ...
+00:57:03.558532 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+00:57:03.558534 main     Log opened 2026-04-05T00:57:03.558529000Z
+00:57:03.558547 main     OS Product: Linux
+00:57:03.558551 main     OS Release: 6.12.41+deb13-amd64
+00:57:03.558555 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.12.41-1 (2025-08-12)
+00:57:03.558558 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+00:57:03.558559 main     Process ID: 1328
+00:57:03.558559 main     Package type: LINUX_64BITS_GENERIC
+00:57:03.558565 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+00:57:03.558659 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+00:57:03.558990 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+00:57:03.560046 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+00:57:03.560054 main      Service: VMSVGA display assistant
+00:57:03.560099 main      Daemonizing service ...
+/usr/bin/x-session-manager: X server already running on display :0
+** Message: 02:57:03.706: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+** Message: 02:57:03.707: Failed to get _NET_WORKAREA; using full screen dimensions
+** Message: 02:57:03.707: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 02:57:03.707: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+xfce4-session-Message: 02:57:03.712: SSH authentication agent is already running
+gpg-agent: une instance de gpg-agent fonctionne déjà —
+pas de démarrage d'une nouvelle instance
+** Message: 02:57:03.948: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+
+(xfwm4:1389): xfwm4-WARNING **: 02:57:04.061: Unsupported GL renderer (llvmpipe (LLVM 19.1.7, 256 bits)).
+
+(polkit-mate-authentication-agent-1:1435): GLib-CRITICAL **: 02:57:04.545: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-mate-authentication-agent-1:1435): polkit-mate-1-WARNING **: 02:57:04.546: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+00:57:04.564191 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+00:57:04.564193 main     Log opened 2026-04-05T00:57:04.564185000Z
+00:57:04.564215 main     OS Product: Linux
+00:57:04.564220 main     OS Release: 6.12.41+deb13-amd64
+00:57:04.564223 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.12.41-1 (2025-08-12)
+00:57:04.564226 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+00:57:04.564227 main     Process ID: 1469
+00:57:04.564227 main     Package type: LINUX_64BITS_GENERIC
+00:57:04.564232 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+00:57:04.564296 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+00:57:04.565079 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+00:57:04.575129 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+00:57:04.575170 main      Service: Shared Clipboard
+00:57:04.575245 main      Daemonizing service ...
+00:57:04.579550 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+00:57:04.579551 main     Log opened 2026-04-05T00:57:04.579546000Z
+00:57:04.579572 main     OS Product: Linux
+00:57:04.579577 main     OS Release: 6.12.41+deb13-amd64
+00:57:04.579580 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.12.41-1 (2025-08-12)
+00:57:04.579583 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+00:57:04.579584 main     Process ID: 1472
+00:57:04.579584 main     Package type: LINUX_64BITS_GENERIC
+00:57:04.579589 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+00:57:04.579651 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+00:57:04.579846 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+00:57:04.583217 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+00:57:04.583229 main      Service: Seamless Mode Support
+00:57:04.583285 main      Daemonizing service ...
+00:57:04.585422 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+00:57:04.585424 main     Log opened 2026-04-05T00:57:04.585419000Z
+00:57:04.585435 main     OS Product: Linux
+00:57:04.585439 main     OS Release: 6.12.41+deb13-amd64
+00:57:04.585443 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.12.41-1 (2025-08-12)
+00:57:04.585446 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+00:57:04.585446 main     Process ID: 1476
+00:57:04.585446 main     Package type: LINUX_64BITS_GENERIC
+00:57:04.585451 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+00:57:04.585516 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+00:57:04.585708 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+00:57:04.597391 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+00:57:04.597411 main      Service: Drag'n'Drop
+00:57:04.597463 main      Daemonizing service ...
+00:57:04.598911 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+00:57:04.598912 main     Log opened 2026-04-05T00:57:04.598907000Z
+00:57:04.598924 main     OS Product: Linux
+00:57:04.598928 main     OS Release: 6.12.41+deb13-amd64
+00:57:04.598931 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.12.41-1 (2025-08-12)
+00:57:04.598935 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+00:57:04.598935 main     Process ID: 1483
+00:57:04.598935 main     Package type: LINUX_64BITS_GENERIC
+00:57:04.598940 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+00:57:04.599004 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+00:57:04.599194 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+00:57:04.602047 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+00:57:04.602065 main      Service: VirtualBox host version check
+00:57:04.602122 main      Daemonizing service ...
+00:57:04.607736 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+00:57:04.607738 main     Log opened 2026-04-05T00:57:04.607732000Z
+00:57:04.607766 main     OS Product: Linux
+00:57:04.607808 main     OS Release: 6.12.41+deb13-amd64
+00:57:04.607823 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.12.41-1 (2025-08-12)
+00:57:04.607828 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+00:57:04.607828 main     Process ID: 1491
+00:57:04.607828 main     Package type: LINUX_64BITS_GENERIC
+00:57:04.607838 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+00:57:04.607940 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+00:57:04.608154 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+00:57:04.609358 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+00:57:04.609366 main      Service: VMSVGA display assistant
+00:57:04.609714 main      Daemonizing service ...
+
+(xfce4-power-manager:1443): libxfce4ui-WARNING **: 02:58:01.759: ICE I/O Error
+
+(xfce4-power-manager:1443): libxfce4ui-WARNING **: 02:58:01.760: Disconnected from session manager.
+
+(xfdesktop:1431): libxfce4ui-WARNING **: 02:58:01.762: ICE I/O Error

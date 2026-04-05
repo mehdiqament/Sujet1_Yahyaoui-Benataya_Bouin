@@ -1,0 +1,3 @@
+Heure UTC : 12h35m19s
+Latitude  : 48.117300 N
+Longitude : 11.516667 E

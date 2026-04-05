@@ -1,0 +1,53 @@
+=== Projet 1 : Analyse de trames GPS ===
+
+OBJECTIF
+--------
+Ce programme analyse des trames GPS au format NMEA 0183 de type GPGGA.
+Il vérifie la validité de la trame, extrait la latitude, la longitude
+et l'heure, puis les affiche dans un format lisible.
+En bonus, les résultats sont sauvegardés dans un fichier texte.
+
+AUTEURS
+-------
+Yahyaoui Benataya Mohamed
+Bouin Mehdi
+
+COMPILATION
+-----------
+  make
+
+UTILISATION
+-----------
+  ./projet_gps
+
+Exemple de trame à entrer :
+  $GPGGA,123519,4807.038,N,01131.000,E,1,08,0.9,545.4,M,46.9,M,,*47
+
+FONCTIONS
+---------
+verifierTrame(trame)
+  - Entrée  : chaîne de caractères
+  - Sortie  : 0 si valide, -1 sinon
+  - Erreurs : NULL, mauvais préfixe, moins de 15 champs
+
+extraireChamps(trame, donnees)
+  - Entrée  : trame, pointeur vers DonneesGPS
+  - Sortie  : 0 si OK, -1 sinon
+  - Erreurs : NULL, heure invalide
+
+convertirCoordonnee(valeurBrute)
+  - Entrée  : coordonnée brute NMEA (ex: 4807.038)
+  - Sortie  : degrés décimaux (ex: 48.117)
+
+formaterHeure(heureBrute, donnees)
+  - Entrée  : chaîne HHMMSS, pointeur vers DonneesGPS
+  - Sortie  : 0 si OK, -1 sinon
+  - Erreurs : NULL, moins de 6 chars, valeurs hors plage
+
+afficherCoordonnees(donnees)
+  - Entrée  : pointeur vers DonneesGPS
+  - Sortie  : affichage format XX°YY'ZZ.ZZ''
+
+afficherHeure(donnees)
+  - Entrée  : pointeur vers DonneesGPS
+  - Sortie  : affichage format XXhYYmZZs
